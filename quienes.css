@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(17, 61, 102);
+}
+
+.form {
+    height: 540px;
+    width: 429px;
+    background: rgb(218, 218, 218);
+    margin-left: 900px;
+    padding: 10px;
+}
+
+.form h1 {
+    font-weight: 800;
+    color: rgb(17, 61, 102);
+    margin-top: 10px;
+}
+
+.form li {
+    color: #0a65a4;
+    font-size: 25px;
+}
+
+.form p {
+    color: black;
+    font-size: 15px;
+}
+/*Hecho por Erlin Carolina Ramírez Canizales*/ 
